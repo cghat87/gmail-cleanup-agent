@@ -264,6 +264,7 @@ MIT — use freely, modify as needed.
 
 ## Author
 
-Built with Claude Sonnet + Gmail MCP inside Claude.ai.  
-Architecture, prompts, and UI designed as a reference implementation for agentic AI workflows.
+**Chiranjib Ghatak**  
+Senior Architect  
+Built with Claude Sonnet + Gmail MCP as a reference implementation for agentic AI workflows.
 # gmail-cleanup-agent
