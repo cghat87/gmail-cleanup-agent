@@ -266,3 +266,4 @@ MIT — use freely, modify as needed.
 
 Built with Claude Sonnet + Gmail MCP inside Claude.ai.  
 Architecture, prompts, and UI designed as a reference implementation for agentic AI workflows.
+# gmail-cleanup-agent
